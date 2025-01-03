@@ -1,3 +1,4 @@
+# Overview 
 This report delves into the development and analysis of an investment portfolio to 
 explore key financial concepts and tools. The primary objective is to construct a unique 
 collection of at least 10 stocks, conduct in-depth detailed market research, and 
